@@ -4,7 +4,7 @@ import java.io.InputStreamReader;
 import java.util.StringTokenizer;
 
 public class Main {
-    static final int max = 987654321;
+    static final int max = 100_000_000; //? 100001
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringTokenizer st;
@@ -57,3 +57,4 @@ public class Main {
         System.out.println(sb);
     }
 }
+
