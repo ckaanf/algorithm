@@ -7,6 +7,16 @@ class Solution {
         
         int date = getDate(today);
         
+/* 메소드 분리 안하고 변수 저장 하고 싶으면
+-> getDate 
+-> String[] to = today.split("\\.")
+int year = Integer.parseInt(to[0])
+int month = Integer.parseInt(to[0])
+int day = Integer.parseInt(to[0])
+
+int date = (year*12*28)+(month*28)+day;
+*/
+        
         for(String s : terms){
             String[] term = s.split(" ");
             policy.put(term[0], Integer.parseInt(term[1]));
