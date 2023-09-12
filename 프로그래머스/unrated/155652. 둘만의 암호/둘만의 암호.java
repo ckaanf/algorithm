@@ -3,18 +3,20 @@ import java.util.*;
 class Solution {
     public String solution(String s, String skip, int index) {
         String answer="";
-        char[] c = s.toCharArray();
+        // char[] c = s.toCharArray();
+
         for(int i = 0; i<s.length(); i++){
+            char c = s.charAt(i);
             for(int j =0; j<index; j++){
-                c[i]++; // --> ascii가 증가
-                if(c[i]>'z'){
-                    c[i] -=26;
+                c++; // --> ascii가 증가
+                if(c>'z'){
+                    c = (char)(c-26);
                 }
-                if(skip.contains(String.valueOf(c[i]))){
+                if(skip.contains(String.valueOf(c))){
                     j--; // j++ 상쇄 시켜줄라고
                 }
             }
-            answer = answer+c[i];
+            answer = answer+c;
         }
         return answer;
     }
