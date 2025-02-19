@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/150369. 택배 배달과 수거하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/150370. 개인정보 수집 유효기간" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/155651. 호텔 대실" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/155652. 둘만의 암호" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/176963. 추억 점수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181844. 배열의 원소 삭제하기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/181854. 배열의 길이에 따라 다른 연산하기" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

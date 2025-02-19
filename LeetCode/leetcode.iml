@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/0009-palindrome-number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0344-reverse-string" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0937-reorder-data-in-log-files" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/0945-minimum-increment-to-make-array-unique" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

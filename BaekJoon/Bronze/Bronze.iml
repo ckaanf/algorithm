@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/10250. ACM 호텔" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10430. 나머지" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10808. 알파벳 개수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10872. 팩토리얼" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/10989. 수 정렬하기 3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/11050. 이항 계수 1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1259. 팰린드롬수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1373. 2진수 8진수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1546. 평균" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1934. 최소공배수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/1978. 소수 찾기" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2231. 분해합" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2309. 일곱 난쟁이" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2609. 최대공약수와 최소공배수" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/27433. 팩토리얼 2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2798. 블랙잭" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/2851. 슈퍼 마리오" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/30802. 웰컴 키트" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/4153. 직각삼각형" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/9093. 단어 뒤집기" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
