@@ -1,3 +1,5 @@
+package algorithm_part1.module1;
+
 public class HelloGoodbye {
 	public static void main(String[] args) {
 		String name1 = args[0];
