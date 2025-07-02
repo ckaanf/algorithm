@@ -5,12 +5,14 @@ int main() {
     // Please write your code here.
     int a;
     int b;
+    int result;
 
     cin >> a >> b;
     if (a > b) {
-        return a * b;
+        result =  a * b;
     } else {
-        return a / b;
+        result = b / a;
     }
-    return 0;
+
+    cout << result << endl;
 }
