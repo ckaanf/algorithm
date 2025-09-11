@@ -6,7 +6,7 @@ int main() {
     int N;
     cin >> N;
 
-    if (N > 100) {
+    if (N >= 100) {
         cout << "vapor";
     } else if (N < 0) {
         cout << "ice";
